@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NeutronHive/PL-ASS6/static/css/main.d081986c.css",
+    "main.js": "/NeutronHive/PL-ASS6/static/js/main.d770ac40.js",
+    "index.html": "/NeutronHive/PL-ASS6/index.html",
+    "static/media/search.svg": "/NeutronHive/PL-ASS6/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.d081986c.css.map": "/NeutronHive/PL-ASS6/static/css/main.d081986c.css.map",
+    "main.d770ac40.js.map": "/NeutronHive/PL-ASS6/static/js/main.d770ac40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d081986c.css",
+    "static/js/main.d770ac40.js"
+  ]
+}
